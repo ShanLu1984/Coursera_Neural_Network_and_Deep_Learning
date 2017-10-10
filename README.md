@@ -1,6 +1,8 @@
 # Coursera: Neural Network and Deep Learning
 ## Introduction: 
-About this Course, https://www.coursera.org/learn/neural-networks-deep-learning/home/info. Cited from the course page:
+This is an online course from Coursera by Andrew Ng. 
+
+About this course, https://www.coursera.org/learn/neural-networks-deep-learning/home/info. Cited from the course page:
 
 If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago. 
 
