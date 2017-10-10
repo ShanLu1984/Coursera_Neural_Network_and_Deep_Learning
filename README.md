@@ -21,3 +21,4 @@ Include 5 programming assignments and 1 certificate:
 1. Programming assignment: Planar data classification with a hidden layer. Dataset: "flower" 2-class dataset
 1. Programming assignment: Building your Deep Neural Network: Step by Step
 1. Programming assignment: Deep Neural Network -Application. Dataset: cat vs. non-cat
+1. Class Certificate: Coursera HQ4PATBGKWLU.pdf
