@@ -18,9 +18,7 @@ This is the first course of the Deep Learning Specialization.
 
 ## What's inside:
 Include 5 programming assignments and 1 certificate:
-1. Programming assignment: Python Basics with numpy (optional)
-1. Programming assignment: Logistic Regression with a Neural Network midset. Dataset: cat vs. non-cat
-1. Programming assignment: Planar data classification with a hidden layer. Dataset: "flower" 2-class dataset
-1. Programming assignment: Building your Deep Neural Network: Step by Step
-1. Programming assignment: Deep Neural Network -Application. Dataset: cat vs. non-cat
+1. Week 2 Programming assignment: Python+Basics+With+numpy+v3.ipynb, Logistic+Regression+with+a+Neural+Network+midset+v4.ipynb (Dataset: cat vs. non-cat)
+1. Week 3 Programming assignment: Planar+data+classification+with+one+hidden+layer+v4.ipynb (Dataset: "flower" 2-class dataset)
+1. Week 4 Programming assignment: Building+your+Deep+Neural+Network+-+Step+by+Step+v5.ipynb, Deep+Neural+Network+-+Application+v3.ipynb (Dataset: cat vs. non-cat)
 1. Class Certificate: Coursera HQ4PATBGKWLU.pdf
